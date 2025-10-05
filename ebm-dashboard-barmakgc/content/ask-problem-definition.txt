@@ -3,52 +3,103 @@
 
 ## X → Y Framework
 ### Current State (X - What's happening now that's problematic?)
-[Describe the current situation that needs to be changed]
+US organizations want to have diverse workplaces and it may be causing negative ripple effects
 
 ### Desired State (Y - What outcome do we want to achieve?)
-[Describe the ideal situation you want to reach]
-
+Organizations implement evidence based DEI hiring practices that demonstrably reduce bias, improve recruitment outcomes for underrepresented groups
 ## PICOC Framework
 ### Population (P - Who is affected by this problem?)
-[Identify the specific group(s) experiencing the problem]
+Hiring managers and recruitment professionals in US organizations making employment decisions
 
 ### Intervention (I - What solution/action are we considering?)
-[Describe the potential intervention or solution approach]
+Evidence-based DEI hiring practices including:
+"Heartfelt" authentic diversity statement language vs. legal/traditional boilerplate
+Systematic bias reduction strategies including targeted recruitment, assessment validity improvements, structured interviews
+Long-term sustainable DEI program implementation with measurable outcomes and longitudinal tracking
 
 ### Comparison (C - What alternatives exist?)
-[List alternative approaches or the "do nothing" option]
+Traditional approach: Legal compliance focused DEI statements with boilerplate equal opportunity language
+Status quo: No formal DEI interventions ("business as usual" hiring practices)
+Performative DEI: Short-term surface-level diversity initiatives without substance or measurement
+Generic training: One size fits all diversity training without structural process changes
 
 ### Outcomes (O - What will success look like?)
-[Define specific, measurable outcomes]
-
-	Testing
+Bias Reduction: Measurable reduction in hiring bias
+Improved Hiring: Enhanced employability ratings for underrepresented candidates without compromising qualifications
+Financial Impact: Positive ROI with bias reduction saving $ for Fortune 500 companies
+Sustained Change: Long term positive impact over 2+ years
+Authentic Diversity: Increased workplace diversity through genuine inclusion rather than tokenism
+Organizational Culture: Reduced negative ripple effects and improved employee trust in DEI efforts
 
 ### Context (C - Where/when does this apply?)
-[Specify the organizational, geographic, or temporal context]
+Geographic: US-based organizations across industries
+When: During hiring cycles
 
 ## Clear Problem Statement
-[Write a concise, specific statement of the management problem you're addressing]
+US organizations struggle with non-diverse workplaces and lack evidence-based guidance on which DEI hiring practices effectively reduce bias without creating negative ripple effects, leading to ineffective DEI investments, continued inequitable hiring outcomes, and potential backlash despite organizational diversity commitments and financial investments.
 
 ## Why This Problem Matters
 ### Impact on Organization
-[Explain the consequences if this problem isn't addressed]
+Financial Losses
+Legal Liability
+Talent Drain (Not hired correct people)
+Resource Waste: Ineffective DEI programs that don't create measurable change
 
 ### Stakeholder Impact
-[Describe how different groups are affected]
+Job Candidates: Continued experience of bias and reduced opportunities for underrepresented groups
+Hiring Managers: Confusion and lack of clear, practical tools to reduce unconscious bias in decision making processes
+HR Leaders: Pressure to implement DEI programs without evidence based guidance on effectiveness
+Current Employees: Poor replacements for them / bad team members
+Executives: Uncertainty about DEI ROI, risk of programs creating unintended consequences
 
 ### Strategic Alignment
-[Connect to organizational goals and priorities]
+Diversity Goals: Supports organizational commitments to diversity, inclusion, and equitable workplace culture
+Risk Management: Aligns with legal compliance requirements
+Competitive Advantage: Contributes to better talent acquisition, retention, and innovation
+Reputation Management: Enhances organizational reputation while avoiding DEI backlash
+Financial Performance: Supports sustainable business performance through evidence based resource allocation
 
 ## Evidence Questions to Explore
+
+### Question 1: Do DEI hiring practices actually reduce bias?
+Is there empirical evidence that diversity statements, inclusive job postings, and DEI-focused recruitment strategies measurably reduce hiring bias? What types of DEI language or approaches are most effective at changing hiring manager behavior and decision-making?
+
+### Question 2: What is the financial impact of hiring bias on organizations?
+How much does hiring bias cost companies in terms of lost productivity, legal liability, and missed talent opportunities? Is there a quantifiable business case for investing in bias reduction strategies?
+
+### Question 3: Do DEI initiatives create unintended negative consequences?
+Can DEI programs backfire or create negative ripple effects such as employee resentment, tokenism concerns, or reduced trust in organizational fairness? What distinguishes authentic DEI efforts from performative ones in terms of outcomes?
+
 ### For the Problem (Step 2)
-- What evidence shows this problem exists?
-- How widespread is this problem?
-- What are the root causes?
+What evidence shows this problem exists?
+Need to find research demonstrating widespread hiring bias in US organizations
+Look for studies quantifying the financial costs of bias to companies
+Search for evidence of DEI program failures or unintended negative consequences
+
+How widespread is this problem?
+Investigate whether bias patterns are consistent across different industries and organization sizes
+Determine if this affects large corporations, medium businesses, or specific sectors
+Examine geographic scope within the United States
+
+What are the root causes?
+Research the psychological mechanisms behind unconscious bias in hiring decisions
+Investigate why current DEI programs may be ineffective or poorly designed
+Explore the difference between authentic organizational commitment and performative DEI
 
 ### For the Solution (Step 4)
-- What evidence supports our preferred solution?
-- Has this solution worked in similar contexts?
-- What are the potential risks and benefits?
+What evidence supports our preferred solution?
+Look for experimental studies testing different types of DEI statement language
+Search for research on systematic bias reduction strategies and their effectiveness
+Find evidence comparing authentic vs performative DEI approaches
+
+Has this solution worked in similar contexts?
+Investigate successful DEI implementations in US-based hiring contexts
+Look for evidence across different types of bias
+Search for case studies in both experimental and real-world organizational settings
+
+What are the potential risks and benefits?
+Benefits to investigate: measurable bias reduction, improved diversity outcomes, financial ROI, enhanced organizational culture
+Risks to consider: implementation challenges, potential resistance to change, short-term costs, risk of backlash if poorly executed
 
 ---
 INSTRUCTIONS: 
