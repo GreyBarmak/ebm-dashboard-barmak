@@ -1,162 +1,104 @@
-# Practitioner Evidence: Methods & Acquisition Strategy
-# Document your approach to gathering expert insights and professional experience
+ACQUIRE - How I gathered practitioner perspectives
 
-## Practitioner Evidence Goals
-**Primary Goal:** [What practitioner insights do you need about your problem?]
-**Secondary Goal:** [What practitioner insights do you need about potential solutions?]
+What I was trying to find:
+• Real-world insights from people who actually work in DEI and HR
+• Wanted to know what works and what fails in actual companies
+• Looking for senior professionals with 5+ years experience doing this stuff
 
-## Target Practitioners
+Who I was looking for:
+• Chief Diversity Officers and HR Directors
+• People working in tech, finance, healthcare (where bias seems bad)
+• Folks at mid to large companies (500+ employees)
+• US-based since that's my focus
 
-### Industry Experts
-**Target Profile:** [What type of professional experience is most relevant?]
-- Years of experience desired: [Range]
-- Industry/sector focus: [Specific industries]
-- Role/position types: [Management levels, functional areas]
-- Company size experience: [Startup, SME, large enterprise]
-- Geographic location: [Local, national, international]
+Why I used published sources instead of interviews:
+• Don't have access to interview actual CDOs for a class project
+• Published research already covers hundreds of companies
+• Sources like HBR and McKinsey already did the interviewing
+• These are vetted and credible unlike random LinkedIn posts
 
-### Specific Practitioners Identified
-1. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+The 3 main sources I picked:
 
-2. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+1. Harvard Business Review article by Dobbin & Kalev
+• These are Harvard and UC Berkeley professors
+• Studied 800+ companies for 30 years
+• Published in peer-reviewed journal in 2016
+• Found it on HBR website (publicly available)
 
-3. **Name/Title/Organization:** [If known]
-   - **Relevance:** [Why this person's experience matters]
-   - **Contact Method:** [How you'll reach them]
+2. McKinsey "Diversity Wins" report
+• Big consulting firm that tracks 1000+ companies
+• Published in 2020 with data from 15 countries
+• Shows connection between diversity and financial performance
+• Got it from McKinsey website (free download)
 
-## Acquisition Methods
+3. SHRM research and guidance
+• Society for HR Management has 300k members
+• They publish what actually works for HR people
+• Published 2020 with implementation tips
+• Found on SHRM website (publicly available)
 
-### Expert Interviews
-#### Interview Planning
-- **Target Number:** [How many interviews planned?]
-- **Interview Length:** [Estimated duration]
-- **Interview Method:** [In-person, phone, video, email]
-- **Recording Plan:** [How will you capture responses?]
+Why these specific sources work:
+• All published and easy to access
+• Cover TONS of companies not just one case study
+• Recent enough (2015-2020) to be relevant today
+• Mix of academic (HBR) and practical (SHRM)
+• All focused on US organizations
 
-#### Interview Protocol
-**Opening Questions:**
-- Can you tell me about your experience with [problem area]?
-- How long have you been working in this field/role?
+What I looked for when reading:
+• What problems do practitioners actually see with DEI?
+• What solutions did they try and did they work?
+• What failed and why did it fail?
+• What recommendations do they make?
+• Any data or numbers to back it up?
 
-**Problem-Focused Questions:**
-- Have you encountered [your specific problem] in your work?
-- What causes this type of problem in your experience?
-- How common is this problem in organizations you've worked with?
+How I picked what to include:
+• Needed at least 3 credible sources
+• Wanted peer-reviewed or from major consulting firms
+• Had to be recent (2015-2025)
+• Preferred sources with lots of companies not just one
+• Made sure it applies to US context
 
-**Solution-Focused Questions:**
-- What approaches have you seen work for this type of problem?
-- What solutions have you tried or observed?
-- What would you recommend based on your experience?
+Questions I asked for each source:
+• Who wrote this and what are their credentials?
+• How many companies did they study?
+• What industries and company sizes?
+• What specific problems did they identify?
+• What solutions did they recommend?
+• Do they have actual data or just opinions?
+• Can I trust this source?
 
-**Implementation Questions:**
-- What challenges should we expect when implementing this type of solution?
-- What would you do differently if you were addressing this problem again?
-- What resources or support are critical for success?
+Where I found everything:
+• Google Scholar for academic articles
+• HBR website for the Dobbin & Kalev article
+• McKinsey website for consulting reports
+• SHRM website for HR practitioner guidance
+• Also checked company DEI reports for examples
 
-**Closing Questions:**
-- Who else would you recommend I speak with about this?
-- Is there anything important I haven't asked about?
+What I documented for each:
+• Full citation (author, year, title, publication)
+• Author credentials and why they're credible
+• Number of companies/organizations studied
+• Key problems they identified
+• Solutions they recommend
+• What worked vs what failed
+• Whether it applies to US companies
+• My assessment of source quality
 
-### Professional Networks
+How I organized my search:
+• Week 1-2: Searched databases and found the 3 main sources
+• Week 3-4: Read everything and took detailed notes
+• Week 5: Compared what all sources said, looked for patterns
+• Focused on areas where sources agreed vs disagreed
 
-#### LinkedIn Outreach
-- **Target Search Terms:** [Keywords for finding relevant professionals]
-- **Connection Strategy:** [How you'll approach potential contacts]
-- **Message Template:** [Professional outreach message]
+Challenges I dealt with:
+• Some McKinsey stuff was paywalled but found public versions
+• Had to check credibility since not all sources are equal
+• Balancing recent research vs more thorough older studies
+• Making sure I wasn't just cherry-picking stuff that agreed
 
-#### Industry Associations
-- **Relevant Associations:** [Professional organizations in your field]
-- **Contact Strategy:** [How you'll engage with association members]
-- **Events/Forums:** [Industry events where you might connect with experts]
-
-### Case Study Research
-
-#### Published Case Studies
-- **Target Sources:** [Harvard Business Review, industry publications, consulting reports]
-- **Search Strategy:** [How you'll find relevant case studies]
-- **Documentation Plan:** [How you'll organize case study insights]
-
-#### Company Examples
-- **Target Companies:** [Organizations known for addressing similar problems]
-- **Information Sources:** [Annual reports, news articles, presentations]
-- **Contact Strategy:** [How you might reach company representatives]
-
-## Documentation Strategy
-
-### Interview Documentation
-- **Recording:** [Will you record interviews? If so, how?]
-- **Note-taking:** [Real-time notes plus post-interview summary]
-- **Transcription:** [Full or partial transcription plan]
-- **Analysis:** [How you'll analyze and code responses]
-
-### Case Study Documentation
-- **Template:** [Standardized format for case study summaries]
-- **Key Elements:** [What information you'll capture for each case]
-- **Source Tracking:** [How you'll maintain citation information]
-
-## Outreach Strategy
-
-### Contact Approach
-**Initial Contact Message Template:**
-[Draft your professional outreach message]
-
-**Follow-up Strategy:**
-[How and when you'll follow up if no initial response]
-
-**Incentives:**
-[What you can offer in return - summary of findings, networking, etc.]
-
-### Timing Plan
-- **Outreach Start Date:** [When you'll begin contacting practitioners]
-- **Interview Window:** [Timeline for conducting interviews]
-- **Follow-up Period:** [Time allowed for additional questions]
-
-## Ethical Considerations
-
-### Informed Consent
-- **Purpose Explanation:** [How you'll explain your research purpose]
-- **Use of Information:** [How you'll use their insights]
-- **Anonymity/Attribution:** [Will you identify them or keep anonymous?]
-- **Approval Process:** [Will they review how you use their input?]
-
-### Professional Courtesy
-- **Time Respect:** [Staying within agreed time limits]
-- **Preparation:** [Being well-prepared for interactions]
-- **Follow-through:** [Sharing results if promised]
-
-## Expected Challenges
-
-### Access Challenges
-[What difficulties might you face reaching practitioners?]
-
-### Response Rate Concerns
-[What if people don't respond to your outreach?]
-
-### Quality Concerns
-[How will you ensure you get valuable insights?]
-
-### Time Constraints
-[How will time limitations affect your approach?]
-
-## Backup Plans
-
-### Alternative Sources
-[What will you do if you can't reach enough practitioners?]
-
-### Modified Approaches
-[How might you adapt your methods if needed?]
-
-### Minimum Viable Evidence
-[What's the minimum practitioner evidence you need?]
-
----
-INSTRUCTIONS:
-1. Start outreach early - practitioners are busy and may take time to respond
-2. Be professional and clear about your academic purpose
-3. Prepare thoroughly for interviews to make the most of practitioners' time
-4. Have backup sources in case your primary targets aren't available
-5. Consider offering something valuable in return for their time
+Why this approach works for class:
+• Using published research is appropriate for coursework
+• Don't need to interview actual executives for this
+• Sources are already vetted and credible
+• Covers way more companies than I could ever interview
+• Gives me both academic and practical perspectives

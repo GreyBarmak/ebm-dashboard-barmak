@@ -1,200 +1,180 @@
-# Practitioner Evidence: Credibility & Relevance Assessment
-# Evaluate the trustworthiness and applicability of practitioner insights
+CRITICALLY APPRAISE - Are these sources trustworthy?
 
-## Overall Credibility Assessment
-**Overall Rating:** [High/Medium/Low]
-**Confidence in Recommendations:** [High/Medium/Low]
+Overall quality rating: A (high quality)
+Feel confident using all three sources. They're credible and mostly agree with each other.
 
-## Individual Practitioner Credibility
+Source 1: HBR article (Dobbin & Kalev)
 
-### Expert 1: [Name/Role]
-#### Professional Credibility
-- **Years of Relevant Experience:** [Number and assessment]
-- **Industry Reputation:** [Known expert/Respected professional/New practitioner]
-- **Track Record:** [Documented successes/Mixed results/Limited evidence]
-- **Current Role Relevance:** [Highly relevant/Somewhat relevant/Limited relevance]
+Credibility factors:
 
-#### Expertise Assessment
-- **Direct Problem Experience:** [Extensive/Moderate/Limited]
-- **Solution Implementation Experience:** [Extensive/Moderate/Limited]
-- **Range of Context Experience:** [Multiple organizations/Single context/Limited exposure]
-- **Recent vs. Historical Experience:** [Current/Recent/Dated]
+Author credentials:
+• Frank Dobbin is a Harvard sociology professor
+• Alexandra Kalev is UC Berkeley sociology professor
+• Both have 30+ years studying organizations
+• Published tons of peer-reviewed papers on diversity
+• These are legit academic experts not random people
 
-#### Bias Assessment
-- **Financial Interests:** [Potential conflicts of interest?]
-- **Organizational Bias:** [Tied to specific approach/company?]
-- **Personal Investment:** [Emotionally invested in certain solutions?]
-- **Transparency:** [Open about limitations/Overly confident/Defensive]
+Study quality:
+• Studied 800+ companies over 30 years
+• That's a HUGE sample size and timeframe
+• Longitudinal data (tracked same companies over time)
+• Not just a survey but actual diversity numbers
+• Can see what happened before and after interventions
 
----
+Publication quality:
+• Published in Harvard Business Review (top journal)
+• Peer-reviewed by other academics
+• HBR is super prestigious in business world
+• Had to meet high standards to get published
 
-### Expert 2: [Name/Role]
-[Follow same structure as Expert 1]
+What makes me trust it:
+• Massive sample (800 companies)
+• Long timeframe (30 years)
+• Peer-reviewed publication
+• Authors are credible experts
+• They show what DOESN'T work not just successes
 
----
+Potential limitations:
+• Published in 2016 so almost 10 years old
+• DEI landscape might have changed since then
+• Mostly large companies in their sample
+• Don't know much about small business applicability
 
-### Expert 3: [Name/Role]
-[Follow same structure as Expert 1]
+Bias assessment:
+• Financial interest: LOW - academics don't profit from this
+• They're not selling consulting services
+• Pro-DEI stance but critically examine failures
+• Actually show when programs backfire
 
-## Case Study Credibility
-
-### Case Study 1: [Organization Name]
-#### Source Credibility
-- **Information Source:** [Company publication/Academic case study/News report/Other]
-- **Source Reliability:** [Highly reliable/Moderately reliable/Limited reliability]
-- **Information Completeness:** [Comprehensive/Partial/Limited detail]
-- **Objectivity:** [Objective reporting/Some bias/Heavily biased]
-
-#### Context Relevance
-- **Industry Similarity:** [Same industry/Related industry/Different industry]
-- **Organizational Size:** [Similar size/Somewhat similar/Very different]
-- **Geographic Context:** [Same region/Similar region/Different region]
-- **Time Relevance:** [Recent/Somewhat recent/Dated]
-
-#### Outcome Verification
-- **Results Documentation:** [Well documented/Partially documented/Claims only]
-- **Independent Verification:** [Third-party confirmation/Self-reported only]
-- **Long-term Follow-up:** [Long-term results known/Short-term only]
+My rating: A+
+This is high quality academic research. Only knock is it's from 2016.
 
 ---
 
-### Case Study 2: [Organization Name]
-[Follow same structure as Case Study 1]
+Source 2: McKinsey "Diversity Wins" report
 
-## Evidence Quality Assessment
+Credibility factors:
 
-### Consistency Across Sources
-#### Consistent Messages
-[What recommendations appear across multiple practitioners?]
+Organization reputation:
+• McKinsey is top tier consulting firm
+• Known for rigorous data analysis
+• Work with Fortune 500 companies
+• Have dedicated diversity research team
 
-#### Inconsistent or Conflicting Advice
-[Where do practitioners disagree?]
+Study scope:
+• Analyzed 1,000+ companies
+• Across 15 different countries
+• Multiple years of data (2015-2020)
+• Links diversity to actual financial performance
 
-#### Pattern Recognition
-[What patterns emerge across different contexts?]
+Methodology:
+• Quantitative analysis not just interviews
+• Used statistical methods to find correlations
+• Compared diversity metrics to profit data
+• Part of ongoing research series ("Diversity Matters")
 
-### Depth and Specificity
-#### Detailed vs. General Advice
-[How specific and actionable are the recommendations?]
+What makes me trust it:
+• Huge dataset (1000+ companies)
+• Multiple countries for comparison
+• Shows actual numbers and statistics
+• Consistent with their earlier reports
+• Other researchers cite this a lot
 
-#### Evidence-Based vs. Opinion-Based
-[Are recommendations backed by specific examples and data?]
+Potential limitations:
+• McKinsey SELLS diversity consulting
+• They benefit if companies think they need help
+• Might overstate need for consulting support
+• Not peer-reviewed academic research
+• Some methods are proprietary (can't fully verify)
 
-#### Implementation Detail
-[How much practical implementation guidance is provided?]
+Bias assessment:
+• Financial interest: MODERATE - they sell consulting
+• Could emphasize problems that need consultants
+• Pro-DEI stance (obviously)
+• Focus on business case serves their interests
+• But data seems solid even with bias risk
 
-## Context Relevance Assessment
-
-### Practitioner Context Match
-#### Industry Alignment
-- **Perfect Match:** [Practitioners from your exact industry]
-- **Close Match:** [Practitioners from related industries]
-- **Different but Relevant:** [Practitioners from different but applicable contexts]
-
-#### Organizational Context
-- **Size Similarity:** [Similar sized organizations in their experience]
-- **Culture Similarity:** [Similar organizational cultures]
-- **Resource Similarity:** [Similar resource constraints]
-
-#### Problem Similarity
-- **Identical Problems:** [Exact same problem encountered]
-- **Similar Problems:** [Related but different problems]
-- **Analogous Problems:** [Different problems with similar solutions]
-
-### Geographic and Cultural Factors
-#### Cultural Relevance
-[How do cultural differences affect applicability?]
-
-#### Regulatory Environment
-[How do different regulatory contexts affect recommendations?]
-
-#### Market Conditions
-[How do different market conditions affect relevance?]
-
-## Bias and Limitation Analysis
-
-### Potential Biases
-
-#### Selection Bias
-[Are you only hearing from certain types of practitioners?]
-
-#### Survival Bias
-[Are you only hearing success stories?]
-
-#### Confirmation Bias
-[Are practitioners telling you what you want to hear?]
-
-#### Recency Bias
-[Are recent experiences overweighted?]
-
-### Information Limitations
-
-#### Sample Size
-[Are you hearing from enough practitioners?]
-
-#### Depth vs. Breadth
-[Do you have deep insights from few sources or shallow insights from many?]
-
-#### Missing Perspectives
-[What practitioner perspectives are missing?]
-
-#### Context Gaps
-[What contexts are not represented in your evidence?]
-
-## Reliability Assessment
-
-### Internal Consistency
-[Are individual practitioners internally consistent in their recommendations?]
-
-### Cross-Validation
-[Do recommendations align with other evidence sources?]
-
-### Logical Coherence
-[Do the recommendations make logical sense given the problem?]
-
-### Practical Feasibility
-[Are the recommendations actually implementable in your context?]
-
-## Confidence Levels
-
-### High Confidence Recommendations
-[What advice do you have high confidence in based on practitioner evidence?]
-
-### Medium Confidence Recommendations
-[What advice seems reasonable but has some uncertainty?]
-
-### Low Confidence or Conflicting Areas
-[What areas have conflicting advice or low confidence?]
-
-## Evidence Gaps and Limitations
-
-### Missing Practitioner Perspectives
-[What types of practitioners would strengthen your evidence?]
-
-### Context Limitations
-[How do context differences limit generalizability?]
-
-### Depth Limitations
-[Where do you need more detailed practitioner insights?]
-
-### Temporal Limitations
-[How do timing factors affect the relevance of practitioner advice?]
-
-## Integration with Other Evidence Types
-
-### Alignment with Scientific Evidence
-[How well does practitioner evidence align with research?]
-
-### Practical vs. Theoretical
-[Where does practitioner wisdom add value beyond research?]
-
-### Implementation Reality Check
-[How do practitioners help you understand real-world constraints?]
+My rating: A
+Solid research despite commercial interests. Massive dataset but watch for sales pitch.
 
 ---
-INSTRUCTIONS:
-1. Be honest about limitations - don't oversell weak practitioner evidence
-2. Consider both the credibility of sources and relevance to your context
-3. Look for patterns and consistency across multiple practitioners
-4. Acknowledge biases and gaps in your practitioner evidence
-5. Use this assessment to weight practitioner recommendations appropriately
+
+Source 3: SHRM research
+
+Credibility factors:
+
+Organization background:
+• Society for Human Resource Management
+• 300,000+ HR professional members
+• Been around since 1948
+• Main professional association for HR people
+
+Evidence basis:
+• Synthesis of practitioner experiences
+• Surveys of their member organizations
+• Case studies from real companies
+• Practical implementation focused
+
+What they offer:
+• On-the-ground perspective from people doing this work
+• Not just theory but actual implementation challenges
+• Know what works in real HR departments
+• Connected to thousands of organizations
+
+What makes me trust it:
+• Huge membership base (300k practitioners)
+• Non-profit association (less commercial bias)
+• Focus on evidence-based practices
+• They publish lots of research that's well regarded
+
+Potential limitations:
+• Not original data collection for this specific piece
+• More synthesis/guidance than research study
+• Not peer-reviewed academic journal
+• Could reflect member biases
+
+Bias assessment:
+• Financial interest: LOW - non-profit association
+• Not selling products (just memberships)
+• Pro-HR perspective (might favor HR-led solutions)
+• Practical bias toward what HR can actually do
+
+My rating: A
+Great for practical implementation perspective. Not as rigorous as academic research but very useful.
+
+---
+
+Cross-source validation:
+
+Do they agree?
+• YES on mandatory training failing
+• YES on needing process changes
+• YES on manager accountability
+• YES on CEO leadership being critical
+• SOMEWHAT on timelines (3-5 years vs pilot approach)
+• DIFFER on business case emphasis
+
+Consistency check:
+• High agreement on what doesn't work
+• High agreement on core recommendations
+• Some differences on implementation approach
+• Makes sense given different perspectives
+
+Do they cite each other?
+• HBR study is cited by McKinsey and SHRM
+• Shows academic research influences practice
+• Builds confidence in findings
+
+Do other sources agree?
+• Checked against scientific studies (Ameri, Hardy)
+• Practitioner evidence aligns with research
+• Multiple independent sources reach similar conclusions
+
+---
+
+What I'm worried about:
+
+Sample bias:
+• Most evidence from large companies (500+ employees)
+• Don't know if this works for small businesses
+• My problem focuses on general US hiring though

@@ -1,432 +1,51 @@
-# Scientific Evidence: Methods & Acquisition Strategy
-# Document your systematic approach to finding research evidence
-
-## Research Question
-**Primary Focus:** Effects of Diversity, Equity, and Inclusion (DEI) practices in US organizations
-
-**Primary Research Questions:**
-1. **DEI Impact on Hiring:** Do diversity statements and DEI hiring practices affect bias and outcomes in recruitment processes?
-2. **Short-term vs. Long-term Effects:** What are the immediate versus sustained effects of DEI programs on organizational performance and employee outcomes?
-
-**Secondary Research Questions:**
-- What specific mechanisms make DEI initiatives effective or ineffective?
-- How do authentic vs. performative DEI practices differ in their outcomes?
-- What role does organizational context play in DEI success?
-
-## Search Strategy
-
-
-### Databases Searched
-- [x] **Google Scholar** - Comprehensive academic search across disciplines
-- [x] **JSTOR** - Established academic journals in business and social sciences  
-- [x] **JMU Library/Consensus** - University database access
-- [ ] **Business Source Premier** - Business and management research (plan to access)
-- [ ] **PsycINFO** - Psychology and organizational behavior studies
-- [ ] **SAGE Business Cases** - Real-world organizational examples
-- [ ] **ProQuest Social Science Database** - Workplace and social research
-
-### Initial Key Studies Identified
-1. **Ameri, M. & Kurtzberg, T.R.** - "The language of inclusion: A randomized trial of how DEI statements influence hiring practices for people with visible and invisible disabilities"
-   - Focus: DEI statements impact on hiring bias and employment decisions
-   - Relevance: Directly addresses DEI hiring practices and bias outcomes
-   - Status: PDF analyzed, comprehensive US-based experimental study
-   
-2. **Hardy, J.H. et al.** - "Bias in Context: Small Biases in Hiring Evaluations Have Big Consequences"
-   - Focus: Meta-analysis of gender bias effects and computer simulation of hiring outcomes
-   - Relevance: Directly addresses hiring bias and discrimination in recruitment processes
-   - Status: PDF analyzed, comprehensive meta-analysis with simulation modeling
-
-### Hardy et al. (2022) Study Analysis Template
-<!-- COMPLETED - Based on full study analysis -->
-
-**Citation Details:**
-- Full APA Citation: Hardy, J. H., III, Tey, K. S., Cyrus-Lai, W., Martell, R. F., Olstad, A., & Uhlmann, E. L. (2022). Bias in context: Small biases in hiring evaluations have big consequences. Journal of Management, 48(3), 657-692. https://doi.org/10.1177/0149206320982654
-- Journal: Journal of Management  
-- DOI: 10.1177/0149206320982654
-- Publication Date: March 2022
-
-**Study Design & Methodology:**
-- Study Design: Meta-analysis combined with large-scale computer simulation modeling
-- Research Approach: Two-phase study: (1) Updated meta-analysis of hiring experiments, (2) Stochastic process simulation modeling
-- Data Collection: Meta-analysis of 6 articles (7 experiments) + simulation with 1 million applicant data points
-- Time Frame: Meta-analysis of recent studies (2015+) + simulation of long-term hiring outcomes
-
-**Sample Characteristics:**
-- Meta-analysis Sample: 6 articles with 7 experiments manipulating candidate gender and qualifications
-- Simulation Sample: 1 million simulated applicants across multiple hiring scenarios
-- Industry: Cross-industry focus on gender-neutral and male-typed jobs
-- Geographic Location: United States hiring contexts
-- Demographics: Focus on gender bias effects in managerial/hiring decision contexts
-
-**DEI Interventions Studied:**
-- Specific DEI Practices: Examination of diversity-oriented staffing practices including targeted recruitment, assessment validity improvements
-- Implementation Details: Simulation modeling of various diversity interventions and their interaction with underlying bias
-- Measurement Tools: Meta-analytic effect sizes used as simulation parameters
-- Control Variables: Selection ratios, base rates, assessment validity, organizational context factors
-
-**Outcomes Measured:**
-- Primary Outcomes: Hiring discrimination (impact ratios, odds ratios), disparate treatment rates, organizational performance metrics
-- Secondary Outcomes: New hire failure rates, system utility loss, financial impact of bias
-- Measurement Tools: Meta-analytic Cohen's d values, simulation-based outcome metrics
-- Time Periods: Long-term cumulative effects across multiple hiring decisions
-
-**Key Findings:**
-- Main Results: Small gender bias (d=-0.30) produces substantial discriminatory outcomes; even 1% bias variance creates practically significant adverse impact
-- Effect Sizes: Gender bias d=-0.30 vs. qualifications effect d=1.61; bias effects small but consequential
-- Organizational Impact: 4% bias effect results in $17M annual productivity loss for Fortune 500 company; 1% bias still costs $2.8M annually
-- Intervention Effectiveness: Targeted recruitment and validity improvements help but cannot eliminate bias effects when systematic bias remains
-
-**Quality Assessment:**
-- Strengths: Meta-analysis + simulation design, large-scale modeling (1M data points), multiple outcome metrics, comprehensive sensitivity analyses
-- Limitations: Meta-analysis based mostly on lab experiments, simplified simulation assumptions, focus on gender only (not intersectionality)
-- Bias Considerations: Conservative bias estimates used, extensive robustness testing across scenarios
-- Generalizability: US-based findings, applicable across industries and hiring contexts
-
-**Relevance to Your Research:**
-- Hiring Bias Question: DIRECTLY addresses how bias affects recruitment processes and hiring outcomes - central to research question
-- Performance Outcomes: Demonstrates both individual discrimination and organizational performance consequences of hiring bias
-- Short vs Long-term: Simulation shows cumulative long-term effects of bias across multiple hiring decisions
-- Mechanisms: Identifies key principle that "all bias matters, no matter how small" - critical insight for DEI interventions
-
-**Connections to Other Evidence Types:**
-- Practitioner Links: References orchestra blind auditions, anonymous hiring procedures as real-world bias reduction strategies
-- Organizational Data: Uses organizational hiring benchmarks, salary data, Fortune 500 company scenarios
-- Stakeholder Perspectives: Addresses hiring manager bias, applicant discrimination experiences, organizational legal/financial risks
-
-**Citation Details:**
-- Full APA Citation: Ameri, M., & Kurtzberg, T. R. (2025). The language of inclusion: A randomized trial of how DEI statements influence hiring practices for people with visible and invisible disabilities. Disability and Health Journal, 18(1), 101717. https://doi.org/10.1016/j.dhjo.2024.101717
-- Journal: Disability and Health Journal
-- DOI: 10.1016/j.dhjo.2024.101717
-- Publication Date: January 2025
-
-**Study Design & Methodology:**
-- Study Design: Randomized controlled trial with 2 √ó 4 √ó 2 experimental design
-- Research Approach: Between-subjects experimental design using online platform
-- Data Collection: Online experiment via Prolific Academic platform
-- Time Frame: Single-day data collection with immediate outcome measurement
-
-**Sample Characteristics:**
-- Sample Size: n = 1,655 participants with management experience
-- Industry: Cross-industry (participants with hiring authority/management experience)
-- Geographic Location: United States (online participants)
-- Demographics: 77% aged 25-54, 43% male, 56% female, 1% other, 91% had at least some college education
-- Organization Types: Participants with management/hiring experience across various sectors
-
-**DEI Interventions Studied:**
-- Specific DEI Practices: Two types of DEI statements - "Legal/Traditional" (boilerplate equal opportunity language) vs "Heartfelt" (vivid, sincere commitment to equity and inclusion)
-- Implementation Details: Participants exposed to company DEI statements before making hiring decisions
-- Measurement Tools: Experimental manipulation with controlled exposure to different DEI language
-- Control Variables: Disability type (none, visible, invisible-neurological, invisible-mental health), candidate tone (warm vs overconfident)
-
-**Outcomes Measured:**
-- Primary Outcomes: Employability ratings, perceived risk as new hire, negotiation skills assessment, integrity perceptions
-- Secondary Outcomes: General reactions to candidates, qualitative feedback on hiring decisions
-- Measurement Tools: Quantitative scales and qualitative response items
-- Time Periods: Immediate post-exposure assessment of hiring intentions and candidate evaluations
-
-**Key Findings:**
-- Main Results: Heartfelt DEI statements significantly improved employability ratings for candidates with disabilities (M=5.11 vs M=4.99, p=0.032, Cohen's d=-0.11)
-- Effect Sizes: Stronger effects for invisible disabilities compared to visible disabilities
-- Disability Type Effects: Candidates with invisible disabilities rated as less employable overall (p<0.001), with mental health disabilities more stigmatized than neurological ones
-- Interaction Effects: DEI statement type interacted with disability status to influence hiring decisions
-
-**Quality Assessment:**
-- Strengths: Large sample (n=1,655), randomized controlled design, IRB approval, CONSORT guidelines followed, controlled experimental conditions
-- Limitations: Single-day data collection, online convenience sample, artificial hiring scenario, no long-term follow-up
-- Bias Considerations: Controlled experimental design minimizes confounding, random assignment ensures causal inference
-- Generalizability: US-based sample with management experience, applicable across industries and organizational contexts
-
-**Relevance to Your Research:**
-- Hiring Bias Question: DIRECTLY addresses how DEI statements affect bias in recruitment processes - perfect match
-- Performance Outcomes: Focuses on hiring decisions and employability assessments rather than post-hire performance
-- Short vs Long-term: Immediate effects measured, but no longitudinal follow-up (limitation for long-term effects research)
-- Mechanisms: Identifies DEI statement language as key mechanism for reducing hiring bias against people with disabilities
-
-**Connections to Other Evidence Types:**
-- Practitioner Links: References company website DEI statements and job advertisement language as real-world applications
-- Organizational Data: Uses experimental company contexts; applicable to organizational DEI policy decisions
-- Stakeholder Perspectives: Focuses on hiring manager perspectives; addresses candidate experiences and perceptions of fair treatment
-
-### Keywords and Search Terms
-
-#### Primary Keywords (Core Concepts)
-- "diversity equity inclusion" OR "DEI initiatives" OR "DEI practices"
-- "hiring bias" OR "recruitment bias" OR "employment discrimination"
-- "organizational performance" AND "diversity"
-- "workplace diversity outcomes"
-
-#### Secondary Keywords (Specific Mechanisms)
-- "resume whitening" OR "name bias"
-- "affinity bias" OR "halo bias" 
-- "blind hiring" OR "structured interviews"
-- "minority tax" OR "tokenism"
-- "inclusive leadership"
-- "authentic DEI" vs "performative DEI"
-
-#### Outcome-Focused Terms
-- "employee retention" AND "diversity"
-- "productivity" AND "inclusion"
-- "short-term" OR "long-term" AND "DEI effects"
-- "B2B sales" AND "diversity" (following Shimul study)
-
-#### Boolean Search Combinations
-- ("DEI" OR "diversity equity inclusion") AND ("hiring" OR "recruitment") AND ("bias" OR "discrimination")
-- ("diversity initiatives" OR "inclusion programs") AND ("performance" OR "outcomes") AND ("United States" OR "US")
-- ("authentic DEI" OR "genuine diversity") AND ("organizational performance" OR "employee outcomes")
-
-### Search Filters Applied
-- **Date Range:** 2015-2025 (focusing on recent DEI research and post-2020 initiatives)
-- **Language:** English only
-- **Geographic Scope:** United States organizations and contexts
-- **Study Types:** 
-  - Empirical studies (quantitative and qualitative)
-  - Longitudinal studies (for short/long-term effects)
-  - Case studies of US organizations
-  - Meta-analyses and systematic reviews
-- **Industry Focus:** Cross-industry but with attention to:
-  - B2B sales (following Shimul study)
-  - Corporate/business contexts
-  - Any industry with measurable DEI outcomes
-
-## Selection Criteria
-
-### Inclusion Criteria
-**Study Requirements:**
-- Empirical research on DEI practices in US organizations
-- Studies measuring hiring/recruitment outcomes OR organizational performance
-- Research examining short-term (‚â§2 years) and/or long-term (>2 years) effects
-- Peer-reviewed academic publications or high-quality working papers
-
-**Context Requirements:**
-- US-based organizations or US-relevant findings
-- Business/corporate contexts (any industry)
-- Studies with measurable DEI interventions or practices
-
-**Outcome Measures:**
-- Hiring bias reduction, recruitment outcomes
-- Employee performance, retention, satisfaction
-- Organizational metrics (productivity, turnover, culture)
-- Stakeholder perceptions and outcomes
-
-### Exclusion Criteria
-**Study Limitations:**
-- Non-US contexts without US applicability
-- Studies older than 2015 (unless seminal works)
-- Opinion pieces or purely theoretical papers without empirical data
-- Studies focused solely on compliance/legal aspects
-
-**Context Mismatches:**
-- Educational institutions as primary focus (unless workplace applicable)
-- Government/public sector only (unless comparative)
-- Studies on diversity without inclusion/equity components
-
-**Quality Concerns:**
-- Non-peer reviewed sources (except high-quality working papers)
-- Studies with significant methodological flaws
-- Sample sizes too small for generalization (n<30 without justification)
-
-## Search Results Summary
-
-### Initial Search Results *(Updated as search progresses)*
-- **Total Articles Found:** 47 (across Google Scholar, JSTOR, JMU databases)
-- **After Removing Duplicates:** 31 unique articles
-- **After Title/Abstract Screening:** 18 meeting basic criteria
-- **Selected for Full Review:** 12 studies for detailed analysis
-- **Key Studies Identified:** 2 (Ameri & Kurtzberg 2021, Hardy et al. 2022)
-
-### Search Documentation Log
-
-| Date | Database | Search Terms | Results | Selected | Notes |
-|------|----------|--------------|---------|----------|--------|
-| Sep 18, 2025 | Google Scholar | "DEI hiring bias" United States | 15 | 3 | Strong studies on recruitment |
-| Sep 18, 2025 | JSTOR | "diversity initiatives" AND "performance" | 12 | 2 | Limited recent studies |
-| Sep 18, 2025 | JMU Library | "authentic DEI" OR "performative diversity" | 8 | 4 | Good theoretical frameworks |
-| Sep 22, 2025 | Direct Access | Hardy et al. meta-analysis - hiring bias simulation | 1 | 1 | **Key study analyzed - meta-analysis + simulation, comprehensive** |
-
-### Study Analysis Progress
-**Completed Full Analysis:**
-- ‚úÖ **Ameri & Kurtzberg (2025)** - Complete extraction done, high-quality randomized controlled trial
-- ‚úÖ **Hardy et al. (2022)** - Meta-analysis and simulation study on hiring bias - ANALYZED
-
-**Next Priority Studies to Find:**
-- Meta-analyses on DEI effectiveness
-- US-based hiring bias studies  
-- Longitudinal studies on DEI impact
-
-### Evidence Source Tracking
-**Scientific Evidence (Academic Research):**
-- Peer-reviewed journal articles: 8 identified
-- Meta-analyses/systematic reviews: 2 identified
-- Working papers from reputable sources: 2 identified
-
-**Links to Other Evidence Types:**
-- Studies citing practitioner examples: 6 studies reference real organizations
-- Studies with stakeholder surveys: 4 studies include employee/customer data
-- Studies mentioning organizational case studies: 5 studies provide organizational context
-
-## Quality Assessment Approach
-[How will you evaluate study quality?]
-
-### Research Design Hierarchy
-1. **Systematic Reviews/Meta-analyses** [Highest quality]
-2. **Randomized Controlled Trials** [High quality]
-3. **Quasi-experimental Studies** [Medium-high quality]
-4. **Cohort Studies** [Medium quality]
-5. **Cross-sectional Studies** [Medium-low quality]
-6. **Case Studies** [Lower quality but valuable for context]
-
-### Quality Criteria Checklist
-- [ ] Clear research question
-- [ ] Appropriate methodology
-- [ ] Adequate sample size
-- [ ] Valid measurement tools
-- [ ] Appropriate statistical analysis
-- [ ] Clear reporting of results
-- [ ] Discussion of limitations
-- [ ] Peer-reviewed publication
-
-## Documentation Process
-[How you'll organize and track your findings]
-
-### Reference Management
-[How you'll keep track of citations]
-
-<!-- RUBRIC SECTIONS - Keep these for assignment requirements -->
-
-### Additional Keywords for Future Searches
-<!-- These are important concepts to explore in additional searches -->
-- Underrepresented
-- Minoritized
-- Accessibility
-- Intersectionality
-- Cultural competence
-- Bias
-- Allyship
-- Representation
-- Retention
-- Empowerment
-- Disparities
-- Path Dependency (how initial interventions shape long-term outcomes)
-- Corporate social responsibility (CSR) (ethical responsibility in business)
-
-### Evidence Extraction Template
-**For each study, document:**
-
-| Field | Ameri & Kurtzberg (2021) | Hardy et al. (2022) | Future Study 3 | Future Study 4 |
-|-------|---------------------|------------------|----------------|----------------|
-| **Citation** | Ameri, M., & Kurtzberg, T. R. (2025). The language of inclusion: A randomized trial of how DEI statements influence hiring practices for people with visible and invisible disabilities. Disability and Health Journal, 18(1), 101717. | Hardy, J. H., III, Gibson, C., Sloan, M., & Carr, A. (2022). Are gender and race blind spots or blind faith? A meta-analysis and computer simulation of hiring discrimination. Journal of Management, 48(3), 647-677. | [To be filled] | [To be filled] |
-| **Study Design** | Randomized controlled trial (2√ó4√ó2 experimental design) | Meta-analysis (k=85 studies, N>600,000) + Computer simulation modeling | [To be filled] | [To be filled] |
-| **Sample** | n=1,655 US managers with hiring experience, 77% aged 25-54, 43% male/56% female, 91% college-educated, cross-industry | Meta-analysis: k=85 studies, N>600,000 participants; Simulation: 100 organizations, 1 million data points, Fortune 500 company scenarios | [To be filled] | [To be filled] |
-| **DEI Intervention** | Two DEI statement types: Legal/Traditional (boilerplate equal opportunity) vs Heartfelt (vivid, sincere equity commitment) | Meta-analysis of hiring bias studies; Simulation of bias reduction interventions (targeted recruitment, improved validity) | [To be filled] | [To be filled] |
-| **Outcomes Measured** | Employability ratings, perceived hiring risk, negotiation skills assessment, integrity perceptions, general candidate reactions | Hiring discrimination ratios, disparate treatment rates, organizational performance metrics, new hire failure rates, financial impact ($17M productivity loss) | [To be filled] | [To be filled] |
-| **Time Frame** | Immediate post-exposure assessment (single-day experiment) - addresses immediate DEI statement effects | Long-term cumulative effects across multiple hiring decisions - addresses systemic bias patterns | [To be filled] | [To be filled] |
-| **Key Findings** | Heartfelt DEI statements significantly improved employability ratings for candidates with disabilities (p=0.032); stronger effects for invisible vs visible disabilities; mental health disabilities more stigmatized than neurological | Small gender bias (d=-0.30) creates substantial discrimination; 4% bias variance = $17M annual productivity loss; "all bias matters" principle - even 1% bias creates significant adverse impact | [To be filled] | [To be filled] |
-| **Relevance Score** | VERY HIGH - Directly addresses primary research question on DEI hiring practices and bias outcomes | EXTREMELY HIGH - Meta-analysis + simulation directly quantifies hiring bias effects and organizational consequences | [To be filled] | [To be filled] |
-| **Quality Rating** | A+ - Randomized controlled trial, large sample, IRB approval, CONSORT guidelines, controlled experimental conditions | A+ - High-quality meta-analysis, large-scale simulation, extensive sensitivity analyses, robust methodology | [To be filled] | [To be filled] |
-| **Evidence Type Links** | Practitioner: Company DEI website/job ad language; Organizational: DEI policy decisions; Stakeholder: Hiring manager and candidate perspectives | Practitioner: Orchestra blind auditions, anonymous hiring; Organizational: Fortune 500 hiring data, salary benchmarks; Stakeholder: Hiring manager bias, applicant discrimination, legal/financial risks | [To be filled] | [To be filled] |
-
-### Step-by-Step PDF Analysis Guide for Shimul Study
-<!-- Work through the PDF systematically using this checklist -->
-
-**Phase 1: Initial Scan (5-10 minutes)**
-- [ ] Read abstract completely
-- [ ] Scan introduction for research questions/hypotheses
-- [ ] Look at conclusion/discussion for main findings
-- [ ] Check methodology section for study design
-- [ ] Note sample size and characteristics
-
-**Phase 2: Detailed Method Analysis (10-15 minutes)**
-- [ ] Identify exact research design (experimental, survey, etc.)
-- [ ] Note sample characteristics (size, demographics, industry)
-- [ ] Understand how DEI was measured/defined
-- [ ] Identify performance metrics used
-- [ ] Check for control variables and potential confounds
-
-**Phase 3: Results Extraction (15-20 minutes)**
-- [ ] Extract key statistical findings
-- [ ] Note effect sizes and significance levels
-- [ ] Identify which DEI practices had strongest effects
-- [ ] Look for short-term vs. long-term distinctions
-- [ ] Check for mediating or moderating factors
-
-**Phase 4: Quality Assessment (10 minutes)**
-- [ ] Evaluate methodology rigor
-- [ ] Note study limitations mentioned by authors
-- [ ] Assess generalizability to your research context
-- [ ] Rate overall quality (A/B/C)
-
-**Phase 5: Integration Planning (5 minutes)**
-- [ ] Identify connections to your research questions
-- [ ] Note potential links to practitioner/organizational evidence
-- [ ] Plan how findings fit into your overall argument
-
-### EBM Framework Alignment
-**How this scientific evidence supports the 4-evidence approach:**
-- **Scientific ‚Üê You are here:** Peer-reviewed research on DEI effectiveness
-- **Practitioner:** Look for studies that cite real-world implementation examples
-- **Organizational:** Identify studies with internal organizational data
-- **Stakeholder:** Note studies that include employee, customer, or community perspectives
-
-## Challenges and Limitations
-[Document any issues with your search process]
-
-### Search Limitations
-[What couldn't you access or find?]
-<!-- Examples to consider:
-- Paywalled articles not accessible through university
-- Recent studies not yet indexed in databases
-- Industry-specific studies in proprietary databases
-- Studies in languages other than English
-- Limited access to organizational internal data -->
-
-### Resource Constraints
-[Time, database access, or other limitations]
-<!-- Consider documenting:
-- Time limitations for comprehensive search
-- Database subscription limitations
-- Geographic limitations (focus on US only)
-- Date range limitations (2015-2025)
-- Researcher capacity constraints -->
-
-### Topic-Specific Challenges
-[Issues unique to your research area]
-<!-- DEI-specific challenges might include:
-- Rapidly evolving field with new terminology
-- Politically sensitive topic affecting study availability
-- Variation in DEI definitions across studies
-- Mix of quantitative and qualitative methodologies
-- Corporate reluctance to share DEI outcome data
-- Potential publication bias (positive results more likely published)
-- Confounding variables in organizational studies -->
-
-<!-- RUBRIC REMINDER SECTIONS -->
-### Future Database Expansion Plans
-<!-- Document planned database searches -->
-- [ ] **PubMed/MEDLINE** [For health/organizational behavior research]
-- [ ] **SSRN** [For business and social science working papers]
-
-### Additional Boolean Search Combinations to Try
-<!-- Keep track of search strings you want to test -->
-<!-- Examples:
-- ("employee retention" OR "staff turnover") AND ("diversity training" OR "inclusion programs")
-- ("authentic diversity" OR "genuine inclusion") AND ("organizational culture" OR "workplace climate")
-- ("DEI backfire" OR "diversity fatigue") AND ("implementation" OR "rollout")
--->
-
-### Documentation Best Practices Checklist
-<!-- For rubric compliance -->
-- [ ] Keep detailed search logs with dates and databases
-- [ ] Document exact search strings used
-- [ ] Record number of results at each filtering stage
-- [ ] Note reasons for including/excluding specific studies
-- [ ] Track quality assessment criteria consistently
-- [ ] Maintain links between evidence types (scientific‚Üípractitioner‚Üíorganizational‚Üístakeholder)
-- [ ] Document any changes to search strategy and rationale
-
----
-INSTRUCTIONS:
-1. Be systematic and comprehensive in your approach
-2. Document everything so others could replicate your search
-3. Focus on research relevant to both your problem AND potential solutions
-4. Use library resources and ask librarians for help with database searches
-5. Keep detailed records of what you find and why you include/exclude studies
+ACQUIRE - How I found 2+ peer-reviewed studies
+
+What I was looking for:
+ï At least 2 peer-reviewed articles on hiring bias
+ Studies that test if DEI stuff works
+ US-based research, recent (2015-2025)
+ Actual experiments not just surveys
+
+Databases I used:
+ Google Scholar - free, searches everything
+ JSTOR - academic business journals  
+ JMU Library - school access to paywalled stuff
+ Searched September-October 2024
+
+Search terms:
+ï "hiring bias" AND "diversity"
+ï "DEI practices" AND "recruitment"
+ï "employment discrimination" experiments
+ï "structured interview" bias reduction
+
+The 2 studies I picked:
+
+Study 1 - Ameri & Kurtzberg (2025):
+ About how DEI statements affect hiring people with disabilities
+ Published in Disability and Health Journal
+ Experiment with 1,655 managers making hiring decisions
+ï Found heartfelt DEI language helps reduce bias
+
+Study 2 - Hardy et al. (2022):
+ Meta-analysis of hiring bias across 6 studies
+ Published in Journal of Management
+ Combined data then simulated 1 million job applications  
+ Shows even small bias causes huge long-term problems
+
+Why these work:
+ Both peer-reviewed in top journals
+ Both recent (2022 and 2025)
+ Different methods (experiment + meta-analysis)
+ Together show bias exists AND what happens over time
+
+How I picked them:
+ Found 47 articles total from searches
+ Cut down to 18 after reading abstracts
+ Fully read 12 papers
+ Chose these 2 as best fit for my questions
+
+Quality checks I did:
+ Peer-reviewed? (required)
+ Big sample size?
+ Good methodology? (experiments beat surveys)
+ Relevant to US hiring?
